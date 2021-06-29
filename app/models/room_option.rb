@@ -1,0 +1,2 @@
+class RoomOption < ApplicationRecord
+end
