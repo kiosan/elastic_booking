@@ -1,24 +1,3 @@
-# README
+How to Build a Booking Engine Similar to Booking.com with Ruby on Rails 6 and ElasticSearch 7
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://dev.to/kiosan/how-to-build-a-booking-engine-similar-to-booking-com-with-ruby-on-rails-6-and-elasticsearch-7-3fjm-temp-slug-2905286
